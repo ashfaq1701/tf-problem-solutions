@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tensorflow-macos = "==2.10"
+tensorflow-datasets = "==4.6.0"
+numpy = "==1.23.3"
+pandas = "==1.5.0"
+pillow = "==9.2.0"
+jupyter = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.6"
