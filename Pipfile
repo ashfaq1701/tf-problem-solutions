@@ -12,6 +12,7 @@ pillow = "==9.2.0"
 jupyter = "*"
 scikit-learn = "*"
 matplotlib = "*"
+tensorflow-hub = "*"
 
 [dev-packages]
 
